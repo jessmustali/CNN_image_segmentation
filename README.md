@@ -36,9 +36,6 @@ Potential future improvements include exploring additional loss functions, incre
 
 ## Below is Claude generated readme
 
-# Vocal Tract Segmentation with Deep Learning
-
-Automatic segmentation of vocal tract and articulators in MRI images using U-Net deep learning architecture.
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow 2.10+](https://img.shields.io/badge/TensorFlow-2.10+-orange.svg)](https://www.tensorflow.org/)
