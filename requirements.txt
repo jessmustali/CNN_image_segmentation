@@ -1,0 +1,20 @@
+# Core dependencies
+tensorflow>=2.10.0
+keras>=2.10.0
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+opencv-python>=4.5.0
+
+# Medical image processing
+med-dataloader==0.1.12
+SimpleITK>=2.1.0
+
+# Optional: for custom U-Net models
+keras-unet>=0.1.2
+
+# Utilities
+python-dateutil>=2.8.0
+
+# For Google Colab integration (optional)
+# google-colab
